@@ -1,0 +1,8 @@
+.recipe-card {
+    background-color: rgb(252, 210, 193);
+    font-family: sans-serif;
+}
+
+.recipe-card ol {
+    line-height: 22px;
+}
